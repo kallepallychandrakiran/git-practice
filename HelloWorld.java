@@ -5,5 +5,7 @@ class HelloWorld {
 		System.out.println("Added new feature from feature branch 2");
 		System.out.println("Added new feature from feature branch 2.1");
 		System.out.println("Added new feature from feature branch 2.2");
+		System.out.println("Added new feature from feature branch 2.3");
+		System.out.println("Added new feature from feature branch 2.4");
 	}
 }
